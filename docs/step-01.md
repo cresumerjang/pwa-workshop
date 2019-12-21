@@ -53,7 +53,7 @@ az login
 
 ```bash
 az group create \
-  -n <RESOURCE_GROUP_NAME> \
+  -n pwa-workshop2 \
   -l koreacentral \
   --verbose
 ```
